@@ -71,8 +71,8 @@
         padding: 16px;
     }
     ol img {
-        height: 100%;
-        width: auto;
+        height: auto;
+        width: 100%;
     }
     input[type=text], input[type=submit], textarea[name=texto] {
         font-size: 14px;
