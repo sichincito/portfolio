@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-final-nicolas-ramella",
+  "version": "1.0.0",
+  "description": "Portfolio de diseño grafico del estudiante Nicolas Ramella",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Ramella",
+  "license": "ISC"
+}

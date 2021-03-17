@@ -1,0 +1,17 @@
+
+@font-face {
+    font-family: 'neue_machinamedium';
+    src: url('neuemachina-medium-webfont.woff2') format('woff2'),
+         url('neuemachina-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'grotesk-light';
+    src: url('FoundersGroteskText-Light.otf');
+}
+@font-face {
+    font-family: 'grotesk-bold';
+    src: url('FoundersGroteskText-Medium.otf');
+}

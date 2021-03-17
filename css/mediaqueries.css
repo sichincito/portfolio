@@ -1,0 +1,47 @@
+/* Media Queries */ 
+/* Tamaños Fuentes */
+@media (max-width:992px){
+    .typeTitular {
+        font-size: 60px;
+        white-space: normal;
+        letter-spacing: 2px;
+        line-height: 50px;
+    }
+    .typeSubtitulo {
+        font-size: 28px;
+    }
+    .padding {
+        padding: 7%;
+    }
+    .typeFooter {
+        font-size: 12px;
+    }
+    .typeFooterBold {
+        font-size: 12px;  
+    }
+    .paddingForm {
+        padding: 5%;
+    }
+    .scrollVerticalPages {
+        height: auto;
+    }
+    .ajusteScrollResponsive{
+        max-width: 100%;
+        height: auto;
+    }
+    body {
+        font-size: 12px;
+        overflow: auto;
+    }
+    ul li{
+        padding: 12px;
+    }
+    ol img {
+        height: 0%;
+        width: auto;
+    }
+    input[type=text], input[type=submit], textarea[name=texto] {
+        font-size: 12px;
+    }
+}
+    
