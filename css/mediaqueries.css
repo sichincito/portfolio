@@ -16,17 +16,10 @@
     .typeFooter {
         font-size: 12px;
     }
-    .typeFooterBold {
-        font-size: 12px;  
-    }
     .paddingForm {
         padding: 5%;
     }
     .scrollVerticalPages {
-        height: auto;
-    }
-    .ajusteScrollResponsive{
-        max-width: 100%;
         height: auto;
     }
     body {

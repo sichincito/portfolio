@@ -108,11 +108,6 @@ a {
 }
 
 /* Grilla */
-.grid {
-    display: grid;
-    grid-template-columns: 50% 50%;
-    justify-items: center;
-}
 .gridAlign {
     display: flex;
     flex-direction: row;
@@ -196,6 +191,11 @@ ol li:hover+.trabajoFondo4 {
     height: 5px;
     border-radius: 12px;
     background-color: #1E1E1E;
+}
+/* Imagen Responsive */
+.ajusteScrollResponsive{
+    max-width: 100%;
+    height: auto;
 }
 
 /* Navbar Custom */
