@@ -197,6 +197,10 @@ ol li:hover+.trabajoFondo4 {
     max-width: 100%;
     height: auto;
 }
+.sizeImg {
+    width:"auto";
+    height:"100%";
+}
 
 /* Navbar Custom */
 .nav-link-custom {

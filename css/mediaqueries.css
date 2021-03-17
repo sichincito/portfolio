@@ -37,4 +37,48 @@
         font-size: 12px;
     }
 }
+@media (max-width:1366px){
+    .typeTitular {
+        font-size: 100px;
+        white-space: pre-line;
+        letter-spacing: 2px;
+        line-height: 90px;
+    }
+    .typeSubtitulo {
+        font-size: 50px;
+    }
+    .padding {
+        padding-top: 3%;
+        padding-bottom: 3%;
+        padding-left: 4.5%;
+        padding-right: 4.5%
+    }
+    .typeFooter {
+        font-size: 12px;
+    }
+    .paddingForm {
+        padding-left: 7%;
+    }
+    .scrollVerticalPages {
+        height: auto;
+    }
+    body {
+        font-size: 16px;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+    ul li{
+        padding: 16px;
+    }
+    ol img {
+        height: 100%;
+        width: auto;
+    }
+    input[type=text], input[type=submit], textarea[name=texto] {
+        font-size: 14px;
+    }
+    .sizeImg {
+        height: 70%;
+    }
+}
     
