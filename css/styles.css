@@ -209,3 +209,11 @@ ol li:hover+.trabajoFondo4 {
 .nav-link-custom-light {
     color: #1e1e1e;
 }
+/* Video */
+#myVideo {
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+ 
